@@ -3,5 +3,5 @@ from typing import Dict
 
 
 @dataclass
-class ClassData:
+class Group:
     students: Dict[str, int]
